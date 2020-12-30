@@ -15,4 +15,4 @@ Features :
   - Cache images
   - Pagination and sort
 
-![alt text](https://drive.google.com/file/d/1vUI8jvdWjyocm5Ox7GWBByCsZa18AMrH/view?usp=sharing)
+![alt text](https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/first.png)
