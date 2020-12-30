@@ -1,4 +1,4 @@
-# motivational_quotes
+## Motivational Quotes App
 
 A new Flutter project.
 
