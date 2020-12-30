@@ -1,16 +1,16 @@
 # Motivational Quotes App
 
-A new Flutter project.
+Motivational Quotes app for daily inspiration and helps us to keep our motivation straight through tons of positive quotes.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features : 
+  - Simple UI design
+  - Firebase storage
+  - Firebase Firestore database
+  - Firebase cloud functions
+  - Firebase Crashalytics
+  - Upload Quotes as images
+  - Automatically send a push notification when a new quote is uploaded
+  - Download quotes
+  - Share quotes
+  - Cache images
+  - Pagination and sort
