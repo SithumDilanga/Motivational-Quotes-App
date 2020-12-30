@@ -21,13 +21,13 @@ Screenshots :
 
 Packages Used :
   - [provider](https://pub.dev/packages/provider)
-  - firebase_core
-  - firebase_storage
-  - cloud_firestore
-  - firebase_messaging
-  - firebase_crashlytics
-  - image_picker
-  - fluttertoast
+  - [firebase_core](https://pub.dev/packages/firebase_core)
+  - [firebase_storage](https://pub.dev/packages/firebase_storage)
+  - [cloud_firestore](https://pub.dev/packages/cloud_firestore)
+  - [firebase_messaging](https://pub.dev/packages/firebase_messaging)
+  - [firebase_crashlytics](https://pub.dev/packages/firebase_crashlytics)
+  - [image_picker](https://pub.dev/packages/image_picker)
+  - [fluttertoast](https://pub.dev/packages/fluttertoast)
   - esys_flutter_share
   - lazy_load_scrollview
   - path_provide
