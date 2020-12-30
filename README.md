@@ -18,3 +18,27 @@ Features :
 Screenshots : 
 
 <img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/first.png" height=500/>  <img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/second.png" height=500/>  <img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/third.png" height=500/> 
+
+Packages Used :
+  - provider
+  - firebase_core
+  - firebase_storage
+  - cloud_firestore
+  - firebase_messaging
+  - firebase_crashlytics
+  - image_picker
+  - fluttertoast
+  - esys_flutter_share
+  - lazy_load_scrollview
+  - path_provide
+  - dio
+  - splashscreen
+  - cached_network_image
+  - data_connection_checker
+  - image_gallery_saver
+  - permission_handler
+  - launch_review
+  - share
+  - url_launcher
+
+Note : Create your own firebase project and add google-services.json file to the app directory to connect the app.
