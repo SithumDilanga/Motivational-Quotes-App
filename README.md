@@ -20,7 +20,7 @@ Screenshots :
 <img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/first.png" height=500/>  <img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/second.png" height=500/>  <img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/third.png" height=500/> 
 
 Packages Used :
-  - provider
+  - [provider](https://pub.dev/packages/provider)
   - firebase_core
   - firebase_storage
   - cloud_firestore
