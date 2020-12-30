@@ -16,4 +16,5 @@ Features :
   - Pagination and sort
 
 <img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/first.png" height=500/> 
-![alt text](https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/second.png)
+<img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/second.png" height=500/> 
+<img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/third.png" height=500/> 
