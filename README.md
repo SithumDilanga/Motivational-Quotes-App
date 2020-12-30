@@ -28,17 +28,17 @@ Packages Used :
   - [firebase_crashlytics](https://pub.dev/packages/firebase_crashlytics)
   - [image_picker](https://pub.dev/packages/image_picker)
   - [fluttertoast](https://pub.dev/packages/fluttertoast)
-  - esys_flutter_share
-  - lazy_load_scrollview
-  - path_provide
-  - dio
-  - splashscreen
-  - cached_network_image
-  - data_connection_checker
-  - image_gallery_saver
-  - permission_handler
-  - launch_review
-  - share
-  - url_launcher
+  - [esys_flutter_share](https://pub.dev/packages/esys_flutter_share)
+  - [lazy_load_scrollview](https://pub.dev/packages/lazy_load_scrollview)
+  - [path_provide](https://pub.dev/packages/path_provider)
+  - [dio](https://pub.dev/packages/dio)
+  - [splashscreen](https://pub.dev/packages/splashscreen)
+  - [cached_network_image](https://pub.dev/packages/cached_network_image)
+  - [data_connection_checker](https://pub.dev/packages/data_connection_checker)
+  - [image_gallery_saver](https://pub.dev/packages/image_gallery_saver)
+  - [permission_handler](https://pub.dev/packages/permission_handler)
+  - [launch_review](https://pub.dev/packages/launch_review)
+  - [share](https://pub.dev/packages/share)
+  - [url_launcher](https://pub.dev/packages?q=url_launcher)
 
 Note : Create your own firebase project and add google-services.json file to the app directory to connect the app.
