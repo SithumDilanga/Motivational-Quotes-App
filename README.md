@@ -15,4 +15,6 @@ Features :
   - Cache images
   - Pagination and sort
 
+Screenshots : 
+
 <img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/first.png" height=500/>  <img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/second.png" height=500/>  <img src="https://github.com/SithumDilanga/Motivational-Quotes-App/blob/master/screenshots/third.png" height=500/> 
