@@ -1,6 +1,6 @@
 # Motivational Quotes App
 
-Motivational Quotes app for daily inspiration and helps us to keep our motivation straight through tons of positive quotes.
+## Motivational Quotes app for daily inspiration and helps us to keep our motivation straight through tons of positive quotes.
 
 Features : 
   - Simple UI design
