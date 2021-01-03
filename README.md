@@ -40,5 +40,7 @@ Packages Used :
   - [launch_review](https://pub.dev/packages/launch_review)
   - [share](https://pub.dev/packages/share)
   - [url_launcher](https://pub.dev/packages?q=url_launcher)
+  
+  [Playstore Link](https://play.google.com/store/apps/details?id=com.motivational.inspirational.daily.quotes)
 
 Note : Create your own firebase project and add google-services.json file to the app directory to connect the app.
